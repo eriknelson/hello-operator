@@ -1,0 +1,4 @@
+apiVersion: "hello-operator.nsk.io/v1alpha1"
+kind: "App"
+metadata:
+  name: "example"
